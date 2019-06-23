@@ -78,7 +78,7 @@ target/
 # celery beat schedule file
 celerybeat-schedule
 
-# SageMath parsed files
+# SageMath parsed filesContinuous Integration Service
 *.sage.py
 
 # Environments
